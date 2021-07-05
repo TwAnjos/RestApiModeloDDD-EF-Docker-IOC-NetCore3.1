@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3YeJLxvjr/xVtqPW6jZtYDQoQNZU4ja1EaeqooAhV1zQXqsjaEnEcgzXV2UlUFPGiIG42zREcmvZwLVkKKDw7w==",
+  "dgSpecHash": "4mesYTrj2+vJNoPhLOgK3pLx8Dmxx3fPRY9vk8v7N2JhxV0Bx04Sq19A4qNzX3GBmMC07ToHHUeTvYro9Qp6hA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tw\\source\\repos\\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\\RestApiModeloDDD.API\\RestApiModeloDDD.API.csproj",
+  "projectFilePath": "E:\\DEVELOPMENT\\C-Sharp\\WorkSpaces\\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\\RestApiModeloDDD.API\\RestApiModeloDDD.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tw\\.nuget\\packages\\autofac\\5.1.4\\autofac.5.1.4.nupkg.sha512",
     "C:\\Users\\Tw\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.7\\microsoft.entityframeworkcore.5.0.7.nupkg.sha512",

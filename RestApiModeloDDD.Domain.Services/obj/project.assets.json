@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tw\\source\\repos\\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\\RestApiModeloDDD.Domain.Services\\RestApiModeloDDD.Domain.Services.csproj",
+      "projectUniqueName": "E:\\DEVELOPMENT\\C-Sharp\\WorkSpaces\\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\\RestApiModeloDDD.Domain.Services\\RestApiModeloDDD.Domain.Services.csproj",
       "projectName": "RestApiModeloDDD.Domain.Services",
-      "projectPath": "C:\\Users\\Tw\\source\\repos\\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\\RestApiModeloDDD.Domain.Services\\RestApiModeloDDD.Domain.Services.csproj",
+      "projectPath": "E:\\DEVELOPMENT\\C-Sharp\\WorkSpaces\\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\\RestApiModeloDDD.Domain.Services\\RestApiModeloDDD.Domain.Services.csproj",
       "packagesPath": "C:\\Users\\Tw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tw\\source\\repos\\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\\RestApiModeloDDD.Domain.Services\\obj\\",
+      "outputPath": "E:\\DEVELOPMENT\\C-Sharp\\WorkSpaces\\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\\RestApiModeloDDD.Domain.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -76,8 +76,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Tw\\source\\repos\\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\\RestApiModeloDDD.Domain.Core\\RestApiModeloDDD.Domain.Core.csproj": {
-              "projectPath": "C:\\Users\\Tw\\source\\repos\\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\\RestApiModeloDDD.Domain.Core\\RestApiModeloDDD.Domain.Core.csproj"
+            "E:\\DEVELOPMENT\\C-Sharp\\WorkSpaces\\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\\RestApiModeloDDD.Domain.Core\\RestApiModeloDDD.Domain.Core.csproj": {
+              "projectPath": "E:\\DEVELOPMENT\\C-Sharp\\WorkSpaces\\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\\RestApiModeloDDD.Domain.Core\\RestApiModeloDDD.Domain.Core.csproj"
             }
           }
         }

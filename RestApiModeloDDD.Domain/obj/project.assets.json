@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tw\\source\\repos\\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\\RestApiModeloDDD.Domain\\RestApiModeloDDD.Domain.csproj",
+      "projectUniqueName": "E:\\DEVELOPMENT\\C-Sharp\\WorkSpaces\\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\\RestApiModeloDDD.Domain\\RestApiModeloDDD.Domain.csproj",
       "projectName": "RestApiModeloDDD.Domain",
-      "projectPath": "C:\\Users\\Tw\\source\\repos\\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\\RestApiModeloDDD.Domain\\RestApiModeloDDD.Domain.csproj",
+      "projectPath": "E:\\DEVELOPMENT\\C-Sharp\\WorkSpaces\\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\\RestApiModeloDDD.Domain\\RestApiModeloDDD.Domain.csproj",
       "packagesPath": "C:\\Users\\Tw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tw\\source\\repos\\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\\RestApiModeloDDD.Domain\\obj\\",
+      "outputPath": "E:\\DEVELOPMENT\\C-Sharp\\WorkSpaces\\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\\RestApiModeloDDD.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

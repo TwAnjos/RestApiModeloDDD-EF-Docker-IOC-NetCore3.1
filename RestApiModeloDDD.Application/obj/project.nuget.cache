@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FZ5JtXNKw9P+0ScY9BcAVJoC45vrPq4fXzej2JsCLb8YAAXK84ntLhKVWeb5eL+6G/FC7c2N6Ebi5sjW5QCXaQ==",
+  "dgSpecHash": "uLkKiHNE4sc3ckhvjBp6sxrUqAEovTT8UTZOkRuuCicw53RVF1CkfdyC1YATwMmyGh8iOon8u1aPFGdtINaSJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tw\\source\\repos\\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\\RestApiModeloDDD.Application\\RestApiModeloDDD.Application.csproj",
+  "projectFilePath": "E:\\DEVELOPMENT\\C-Sharp\\WorkSpaces\\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\\RestApiModeloDDD.Application\\RestApiModeloDDD.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
