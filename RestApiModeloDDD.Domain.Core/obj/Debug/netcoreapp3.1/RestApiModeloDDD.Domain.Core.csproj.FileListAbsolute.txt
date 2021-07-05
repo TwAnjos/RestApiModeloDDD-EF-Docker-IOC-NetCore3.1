@@ -10,3 +10,15 @@ C:\Users\Tw\source\repos\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModelo
 C:\Users\Tw\source\repos\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD.Domain.Core\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.csproj.CopyComplete
 C:\Users\Tw\source\repos\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD.Domain.Core\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.dll
 C:\Users\Tw\source\repos\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD.Domain.Core\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.pdb
+E:\DEVELOPMENT\C-Sharp\WorkSpaces\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\RestApiModeloDDD.Domain.Core\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.deps.json
+E:\DEVELOPMENT\C-Sharp\WorkSpaces\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\RestApiModeloDDD.Domain.Core\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.dll
+E:\DEVELOPMENT\C-Sharp\WorkSpaces\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\RestApiModeloDDD.Domain.Core\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.pdb
+E:\DEVELOPMENT\C-Sharp\WorkSpaces\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\RestApiModeloDDD.Domain.Core\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.dll
+E:\DEVELOPMENT\C-Sharp\WorkSpaces\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\RestApiModeloDDD.Domain.Core\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.pdb
+E:\DEVELOPMENT\C-Sharp\WorkSpaces\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\RestApiModeloDDD.Domain.Core\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.csprojAssemblyReference.cache
+E:\DEVELOPMENT\C-Sharp\WorkSpaces\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\RestApiModeloDDD.Domain.Core\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.AssemblyInfoInputs.cache
+E:\DEVELOPMENT\C-Sharp\WorkSpaces\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\RestApiModeloDDD.Domain.Core\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.AssemblyInfo.cs
+E:\DEVELOPMENT\C-Sharp\WorkSpaces\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\RestApiModeloDDD.Domain.Core\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.csproj.CoreCompileInputs.cache
+E:\DEVELOPMENT\C-Sharp\WorkSpaces\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\RestApiModeloDDD.Domain.Core\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.csproj.CopyComplete
+E:\DEVELOPMENT\C-Sharp\WorkSpaces\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\RestApiModeloDDD.Domain.Core\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.dll
+E:\DEVELOPMENT\C-Sharp\WorkSpaces\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\RestApiModeloDDD.Domain.Core\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.pdb
