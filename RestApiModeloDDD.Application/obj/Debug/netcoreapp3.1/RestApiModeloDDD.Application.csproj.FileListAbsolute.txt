@@ -1,0 +1,14 @@
+C:\Users\Tw\source\repos\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD.Application\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Application.deps.json
+C:\Users\Tw\source\repos\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD.Application\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Application.dll
+C:\Users\Tw\source\repos\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD.Application\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Application.pdb
+C:\Users\Tw\source\repos\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD.Application\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Application.csprojAssemblyReference.cache
+C:\Users\Tw\source\repos\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD.Application\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Application.AssemblyInfoInputs.cache
+C:\Users\Tw\source\repos\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD.Application\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Application.AssemblyInfo.cs
+C:\Users\Tw\source\repos\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD.Application\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Application.csproj.CoreCompileInputs.cache
+C:\Users\Tw\source\repos\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD.Application\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Application.dll
+C:\Users\Tw\source\repos\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD.Application\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Application.pdb
+C:\Users\Tw\source\repos\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD.Application\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.dll
+C:\Users\Tw\source\repos\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD.Application\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.dll
+C:\Users\Tw\source\repos\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD.Application\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.pdb
+C:\Users\Tw\source\repos\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD.Application\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.pdb
+C:\Users\Tw\source\repos\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD.Application\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Application.csproj.CopyComplete
