@@ -57,6 +57,7 @@ E:\DEVELOPMENT\C-Sharp\WorkSpaces\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\Rest
 E:\DEVELOPMENT\C-Sharp\WorkSpaces\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\RestApiModeloDDD.API\bin\Debug\netcoreapp3.1\RestApiModeloDDD.API.dll
 E:\DEVELOPMENT\C-Sharp\WorkSpaces\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\RestApiModeloDDD.API\bin\Debug\netcoreapp3.1\RestApiModeloDDD.API.pdb
 E:\DEVELOPMENT\C-Sharp\WorkSpaces\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\RestApiModeloDDD.API\bin\Debug\netcoreapp3.1\Autofac.dll
+E:\DEVELOPMENT\C-Sharp\WorkSpaces\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\RestApiModeloDDD.API\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
 E:\DEVELOPMENT\C-Sharp\WorkSpaces\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\RestApiModeloDDD.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 E:\DEVELOPMENT\C-Sharp\WorkSpaces\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\RestApiModeloDDD.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 E:\DEVELOPMENT\C-Sharp\WorkSpaces\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\RestApiModeloDDD.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
@@ -115,4 +116,3 @@ E:\DEVELOPMENT\C-Sharp\WorkSpaces\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\Rest
 E:\DEVELOPMENT\C-Sharp\WorkSpaces\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\RestApiModeloDDD.API.dll
 E:\DEVELOPMENT\C-Sharp\WorkSpaces\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\RestApiModeloDDD.API.pdb
 E:\DEVELOPMENT\C-Sharp\WorkSpaces\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\RestApiModeloDDD.API.genruntimeconfig.cache
-E:\DEVELOPMENT\C-Sharp\WorkSpaces\RestApiModeloDDD+EF+Docker+IOC+NetCore3.1\RestApiModeloDDD-EF-Docker-IOC-NetCore3.1\RestApiModeloDDD.API\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
